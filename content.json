@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-07-09",
+  "fest": {
+    "name": "Frozen Dead Guy Days",
+    "start": "2027-04-02T10:00:00-06:00",
+    "dateLabel": "April 2–4, 2027"
+  },
+  "days": [
+    "Fri Mar 27",
+    "Sat Mar 28",
+    "Sun Mar 29"
+  ],
+  "schedule": [
+    {
+      "id": "fri-bar-crawl",
+      "day": 0,
+      "t": "14:00",
+      "title": "FDGD Bar Crawl",
+      "venue": "Various locations, downtown Estes Park",
+      "cat": "food"
+    },
+    {
+      "id": "fri-royal-blue-ball",
+      "day": 0,
+      "t": "19:00",
+      "title": "Royal Blue Ball with DJ Mack",
+      "venue": "Stanley Concert Hall, The Stanley Hotel",
+      "cat": "music"
+    },
+    {
+      "id": "fri-blue-ball-costumes",
+      "day": 0,
+      "t": "22:00",
+      "title": "Royal Blue Ball costume contest",
+      "venue": "Stanley Concert Hall, The Stanley Hotel",
+      "cat": "contest"
+    },
+    {
+      "id": "sat-cannibal-chase",
+      "day": 1,
+      "t": "10:30",
+      "title": "Cannibal Chase 8K",
+      "venue": "380 Community Drive",
+      "cat": "race"
+    },
+    {
+      "id": "sat-buster-boomers",
+      "day": 1,
+      "t": "12:00",
+      "title": "Buster & The Boomers",
+      "venue": "Ice Room Stage",
+      "cat": "music"
+    },
+    {
+      "id": "sat-rick-lewis",
+      "day": 1,
+      "t": "12:15",
+      "title": "Rick Lewis Project",
+      "venue": "Coffin Races Stage",
+      "cat": "music"
+    },
+    {
+      "id": "sat-dj-panda-bear",
+      "day": 1,
+      "t": "12:45",
+      "title": "DJ Panda Bear",
+      "venue": "Ice Room Stage",
+      "cat": "music"
+    },
+    {
+      "id": "sat-fire-stage-games",
+      "day": 1,
+      "t": "12:45",
+      "title": "Fire Stage games — Frozen T-Shirt, Brain Freeze, Cornhole & more",
+      "venue": "Fire Stage",
+      "cat": "contest"
+    },
+    {
+      "id": "sat-coffin-heats",
+      "day": 1,
+      "t": "13:15",
+      "title": "Coffin Race — opening heats",
+      "venue": "Coffin Races Stage",
+      "cat": "race"
+    },
+    {
+      "id": "sat-gasoline-lollipops",
+      "day": 1,
+      "t": "14:15",
+      "title": "Gasoline Lollipops",
+      "venue": "Ice Room Stage",
+      "cat": "music"
+    },
+    {
+      "id": "sat-coffin-finals",
+      "day": 1,
+      "t": "15:15",
+      "title": "Coffin Race — finals",
+      "venue": "Coffin Races Stage",
+      "cat": "race"
+    },
+    {
+      "id": "sat-costume-contest",
+      "day": 1,
+      "t": "15:45",
+      "title": "Costume contest",
+      "venue": "Fire Stage",
+      "cat": "contest"
+    },
+    {
+      "id": "sat-awards",
+      "day": 1,
+      "t": "16:20",
+      "title": "Coffin Race awards ceremony",
+      "venue": "Coffin Races Stage",
+      "cat": "ceremony"
+    },
+    {
+      "id": "sat-polkanauts",
+      "day": 1,
+      "t": "16:30",
+      "title": "Polkanauts",
+      "venue": "Coffin Races Stage",
+      "cat": "music"
+    },
+    {
+      "id": "sat-andy-frasco",
+      "day": 1,
+      "t": "17:15",
+      "title": "Andy Frasco & The U.N.",
+      "venue": "Ice Room Stage",
+      "cat": "music"
+    },
+    {
+      "id": "sat-pigeons",
+      "day": 1,
+      "t": "19:00",
+      "title": "Pigeons Playing Ping Pong",
+      "venue": "Ice Room Stage",
+      "cat": "music"
+    },
+    {
+      "id": "sat-drone-show",
+      "day": 1,
+      "t": "20:40",
+      "title": "Stories in the Sky drone show",
+      "venue": "Festival grounds",
+      "cat": "ceremony"
+    },
+    {
+      "id": "sun-bands-bloodys",
+      "day": 2,
+      "t": "11:00",
+      "title": "Bands and Bloody's Brunch",
+      "venue": "Various locations around town",
+      "cat": "food"
+    },
+    {
+      "id": "sun-polar-plunge",
+      "day": 2,
+      "t": "12:30",
+      "title": "Polar Plunge",
+      "venue": "Pavilion Pond, The Stanley Hotel",
+      "cat": "plunge"
+    }
+  ],
+  "notice": null,
+  "grandpaFacts": []
+}
