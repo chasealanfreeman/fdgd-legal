@@ -165,6 +165,12 @@
       "cat": "plunge"
     }
   ],
-  "notice": null,
-  "grandpaFacts": []
+  "notice": {
+    "id": "welcome-2026-07",
+    "text": "Welcome to the official FDGD app! Grandpa Bredo is thawed, chatty, and taking questions — tickets and 2027 news land here first.",
+    "url": "https://frozendeadguydays.com"
+  },
+  "grandpaFacts": [
+    "The official FDGD iPhone app is live on the App Store as of July 2026 — you are talking to the visitor through it right now."
+  ]
 }
