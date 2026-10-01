@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-07-09",
+  "updated": "2026-09-30",
   "fest": {
     "name": "Frozen Dead Guy Days",
-    "start": "2027-04-02T10:00:00-06:00",
-    "dateLabel": "April 2–4, 2027"
+    "start": "2027-04-09T10:00:00-06:00",
+    "dateLabel": "April 9–11, 2027"
   },
   "days": [
     "Fri Mar 27",
